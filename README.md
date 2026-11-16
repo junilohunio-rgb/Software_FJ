@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34938393/README.md)
+[README.md](https://github.com/user-attachments/files/34938979/README.md)
 # Software FJ
 
 ## Descripción
@@ -54,3 +54,16 @@ El programa puede generar el archivo `software_fj.log` para registrar eventos y 
 
 ## Autoría
 Proyecto académico: **Software FJ**.
+
+## Conceptos POO aplicados
+
+En el proyecto Software FJ se aplican los siguientes conceptos de programación orientada a objetos (POO):
+
+- **Abstracción:** se utilizan clases abstractas para definir características y comportamientos generales que deben implementar las clases concretas.
+- **Encapsulamiento:** los datos de los objetos se administran mediante atributos y métodos, controlando el acceso y validando la información cuando corresponde.
+- **Herencia:** las clases especializadas reutilizan características y comportamientos definidos en sus clases base.
+- **Polimorfismo:** los distintos tipos de servicios pueden responder a operaciones comunes mediante sus propias implementaciones.
+- **Manejo de excepciones:** se utilizan excepciones para controlar errores y evitar que situaciones inesperadas detengan incorrectamente el programa.
+- **Colecciones en memoria:** se utilizan listas para almacenar y administrar temporalmente clientes, servicios y reservas, sin conexión a una base de datos.
+
+Estos conceptos permiten organizar el código en módulos, facilitar su mantenimiento y representar los elementos del sistema mediante objetos.
